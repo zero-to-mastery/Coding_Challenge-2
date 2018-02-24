@@ -2,7 +2,9 @@
 
 
 1a) Visual Aesthetic = http://edwindejongh.co/
+
 1b) Navigation and Flow = http://admirhadzic.com
+
 BUT, a requirement is that there still must be a wall of projects similar to this: http://yimaiguan.com/index.php or http://dccper.com/work/all
 
 “Nav and Flow” shows “recent/highlighted” works, but a wall for all projects should still be present/visible beneath.
