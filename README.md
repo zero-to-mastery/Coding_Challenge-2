@@ -1,5 +1,12 @@
 # Coding_Challenge-2
 
+## Coding Challenge Submissions
+
+
+## What was the Challenge?
+Build an amazing portfolio website!
+
+This is good practice to work with not having complete information from the client and making decisions on your own based on “creative direction”. The rest is up to you to research and figure out. Use this as a challenge to learn how to work with project requirements from a client, or go off on your own and create your dream portfolio website. Just make sure you share it with the community. You can see the project requirements of the client here: 
 
 1a) Visual Aesthetic = http://edwindejongh.co/
 
