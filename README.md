@@ -2,6 +2,32 @@
 
 ## Coding Challenge Submissions
 
+The wonderful submissions from some of the Zero-to-Mastery students on the second coding challenge. We have included their slack handle names if you want to say hi to them on our slack community!
+
+@Kachi Coding Challenge#2 Submission:https://Onyedikachi123.github.io/portfolio.github.io/#header *FOR CLIENT
+
+@hopes91 Coding Challenge#2 Submission: https://hopes91.github.io/coding_challenge-2/ *FOR CLIENT
+
+@Mareli Coding Challenge#2 Submission: https://marely76.github.io/portfolio/ *For Client
+
+@Redvan Coding Challenge#2 Submission: https://redvanisation.github.io/ *FOR CLIENT
+
+@NickP Coding Challenge#2 Submission: https://nickpax.github.io/ux-designer-portfolio/ FOR CLIENT
+
+@Sakht Launda Coding Challenge#2 Submission: https://hgautam2010.github.io/portfolio/  *FOR CLIENT
+
+@AngieHM Coding Challenge#2 Submission: https://angiehm.github.io for Client
+
+@Rabin Coding Challenge#2 Submission: https://rabinrai44.github.io/portfolio-site/ for Client
+
+@Max Coding Challenge#2 Submission: https://maxmalkhazov.github.io/
+
+@Anne Coding Challenge#2 Submission: https://bonn0062.github.io/ClientPortfolio2/ *FOR CLIENT
+
+@Tejas Coding Challenge#2 Submission: https://steadfast14.github.io/portfolio *FOR CLIENT
+
+@Arshi Coding Challenge#2 Submission: https://webpagearshi.github.io/project.github.io/. *FOR CLIENT
+
 
 ## What was the Challenge?
 Build an amazing portfolio website!
