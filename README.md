@@ -28,6 +28,7 @@ The wonderful submissions from some of the Zero-to-Mastery students on the secon
 
 @Arshi Coding Challenge#2 Submission: https://webpagearshi.github.io/project.github.io/. *FOR CLIENT
 
+@Thrilliam Coding Challenge#2 Submission: https://github.com/Thrilliam98/portfo
 
 ## What was the Challenge?
 Build an amazing portfolio website!
